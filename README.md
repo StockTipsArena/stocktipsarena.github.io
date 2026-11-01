@@ -8,6 +8,7 @@ An open, empirical benchmark dataset and methodology companion from **[StockTips
 
 - **Interactive Benchmark & Live Tracker:** [https://stocktipsarena.com](https://stocktipsarena.com)
 - **GitHub Pages Benchmark Report:** [https://stocktipsarena.github.io/india-analyst-accuracy-benchmark/](https://stocktipsarena.github.io/india-analyst-accuracy-benchmark/)
+- **Product Hunt Hub:** [https://www.producthunt.com/products/stocktipsarena](https://www.producthunt.com/products/stocktipsarena)
 - **Google Colab Notebook:** [Run in Google Colab](https://colab.research.google.com/github/StockTipsArena/india-analyst-accuracy-benchmark/blob/main/notebooks/india_analyst_accuracy_benchmark_2026.ipynb)
 
 ---
